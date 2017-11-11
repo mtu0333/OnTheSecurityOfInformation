@@ -10,11 +10,13 @@
   * [Introduction](lifecycle/reconnaissance/introduction.md)
   * [Cheat Sheet](lifecycle/reconnaissance/cheat-sheet.md)
   * [Useful Tools](lifecycle/reconnaissance/tools.md)
+
 ### Vulnerability Scanning
   * [Introduction](lifecycle/vulnerability-scanning/introduction.md)
   * [Source Code Review](lifecycle/vulnerability-scanning/source-code-review.md)
   * [Cheat Sheet](lifecycle/vulnerability-scanning/cheat-sheet.md)
   * [Useful Tools](lifecycle/vulnerability-scanning/tools.md)
+
 ### Web Application Testing
   * [Introduction](lifecycle/web-application/introduction.md)
   * [Information Gathering](lifecycle/web-application/information-gathering.md)
@@ -25,16 +27,19 @@
   * [Input Validation](lifecycle/web-application/input-validation.md)
   * [Cheat Sheet](lifecycle/web-application/cheat-sheet.md)
   * [Useful Tools](lifecycle/web-application/tools.md)
+
 ### Exploitation
   * [Introduction](lifecycle/exploitation/introduction.md)
   * [Metasploit](lifecycle/exploitation/metasploit.md)
   * [Buffer Overflows](lifecycle/exploitation/buffer-overflows.md)
   * [Cheat Sheet](lifecycle/exploitation/cheat-sheet.md)
   * [Useful Tools](lifecycle/exploitation/tools.md)
+
 ### Post Exploitation
   * [Introduction](lifecycle/post-exploitation/introduction.md)
   * [Cheat Sheet](lifecycle/post-exploitation/cheat-sheet.md)
   * [Useful Tools](lifecycle/post-exploitation/tools.md)
+  
 ### Social Engineering
   * [Introduction](lifecycle/social-engineering/introduction.md)
   * [Social Engineering](lifecycle/social-engineering/social-engineering.md)
