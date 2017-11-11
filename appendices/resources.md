@@ -32,6 +32,8 @@ _Matteo Meucci and Andrew Muller_
 
 [**Default Password**](http://www.defaultpassword.com/) - A list of default usernames and passwords for networking hardware.
 
+[**Google Dorks**](https://www.exploit-db.com/google-dorks/) - A database full of queries to get interesting information using advanced Google searches.
+
 ## Magazines
 
 [**Playing with Web Scanners**](https://pentestmag.com/download/pentest-playing-web-scanners/) - A Pentest Magazine issue which describes and compares different web application scanners.
