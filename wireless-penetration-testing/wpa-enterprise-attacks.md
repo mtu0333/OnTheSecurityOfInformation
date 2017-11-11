@@ -1,3 +1,0 @@
-# WPA-Enterprise Attacks
-
-Coming soon...
