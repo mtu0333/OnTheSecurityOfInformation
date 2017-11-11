@@ -1,1 +1,0 @@
-# Authorisation Cheat Sheet

@@ -1,1 +1,0 @@
-# Authentication Cheat Sheet
