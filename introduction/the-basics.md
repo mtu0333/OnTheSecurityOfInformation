@@ -16,6 +16,7 @@ Then, once the repositories have been added, run the following commands to clean
 apt-get clean
 apt-get update
 apt-get upgrade
+apt-get dist-upgrade
 ```
 
 ## Kali on HDPI Screens
