@@ -8,7 +8,7 @@ If you're into cybersecurity and you're anything like me, then at some point you
 
 The idea of this book is to serve two purposes:
 
- 1. To serve as a knowledge base for all things cybersecurity. There is a vast wealth of knowledge available to us in both physical and digital formats, as well as in the minds of our peers. This book is a place for me to collect and categorise information and resources so I can come back to things as I need them. You have also somehow stumbled upon this book; I hope that it can be of some use to you. Feel free to ready, copy, modify and share as you please. Knowledge should be free for all.
+ 1. To serve as a knowledge base for all things cybersecurity. There is a vast wealth of knowledge available to us in both physical and digital formats, as well as in the minds of our peers. This book is a place for me to collect and categorise information and resources so I can come back to things as I need them. You have also somehow stumbled upon this book; I hope that it can be of some use to you. Feel free to read, copy, modify and share as you please. Knowledge should be free for all.
 
  2. To serve as a cheat-sheet for common tools and commands used throughout the various stages of a penetration testing engagement. 
 
