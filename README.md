@@ -14,6 +14,6 @@ The idea of this book is to serve two purposes:
 
 ## Disclaimers
 
-Since I am developing this book as I learn about new tools and concepts, much of the content of the book is paraphrased from other sources. Where I have found a resource particularly helpful, or I have paraphrased the resource directly, I will add a link to the source to the [resources](miscellaneous/resources.md) page.
+Since I am developing this book as I learn about new tools and concepts, much of the content of the book is paraphrased from other sources. Where I have found a resource particularly helpful, or I have paraphrased the resource directly, I will add a link to the source to the [resources](appendices/resources.md) page.
 
 Finally, this may be a force of habbit from my days as a university tutor, but it is worth noting that peforming the attacks described in this book can land you in trouble if they are performed without the explicit permission of the owner of any systems targeted by the attacks. I do not in any way condone illegal or malicious behaviour; it is our role as cybersecurity professionals to help others protect themselves. There are plenty of resources available which can help you practice in a totally legal and safe way, please use them.
