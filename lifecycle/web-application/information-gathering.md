@@ -46,4 +46,8 @@ When doing a web application penetration test, clients will typically provide a 
   * Try a DNS inverse query
 
 
+## Useful Links
+
+[**How to control web page caching across all browsers**](https://stackoverflow.com/questions/49547/how-to-control-web-page-caching-across-all-browsers) - A useful description of cache-control headers and how to set them in code.
+
 
