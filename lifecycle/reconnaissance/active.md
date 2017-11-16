@@ -1,5 +1,8 @@
 # Active Information Gathering
 
+## WHOIS
+
+
 ## DNS Enumeration
 
 **Forward DNS Lookup**
