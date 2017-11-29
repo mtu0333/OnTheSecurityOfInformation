@@ -38,9 +38,11 @@ _Matteo Meucci and Andrew Muller_
 
 ### Python
 
-[**Code Academy - Learn Python**](https://www.codecademy.com/learn/learn-python) - A simple, ground up course on Python syntax. A good resource for people new to programming too.
+[**Code Academy - Learn Python**](https://www.codecademy.com/learn/learn-python) - A simple, ground up course on Python syntax. A good resource for people new to programming.
 
 [**Code Wars - Python**](https://www.codewars.com/?language=python) - A browser based set of Python programming challenges. Other languages are available too, if you're interested!
+
+[**Cybrary - Introduction to the Python for Security Pros Course**](https://www.cybrary.it/course/python) - 
 
 ## Magazines
 
