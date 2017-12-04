@@ -34,6 +34,14 @@ _Matteo Meucci and Andrew Muller_
 
 [**Google Dorks**](https://www.exploit-db.com/google-dorks/) - A database full of queries to get interesting information using advanced Google searches.
 
+## Learn a Programming Language
+
+### Python
+
+[**Code Academy - Learn Python**](https://www.codecademy.com/learn/learn-python) - A simple, ground up course on Python syntax. A good resource for people new to programming too.
+
+[**Code Wars - Python**](https://www.codewars.com/?language=python) - A browser based set of Python programming challenges. Other languages are available too, if you're interested!
+
 ## Magazines
 
 [**Playing with Web Scanners**](https://pentestmag.com/download/pentest-playing-web-scanners/) - A Pentest Magazine issue which describes and compares different web application scanners.
