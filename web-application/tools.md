@@ -9,3 +9,5 @@
 [**Cookies Manager+**](https://addons.mozilla.org/en-US/firefox/addon/cookies-manager-plus/) - A Firefox extension which lets you view and edit cookies.
 
 [**Proxy Switcher**](https://addons.mozilla.org/en-US/firefox/addon/proxy-switcher/) - A Firefox extension that makes it easy to switch proxies on / off.
+
+[**ShowIP**]()
