@@ -17,17 +17,9 @@
   * [Cheat Sheet](lifecycle/vulnerability-scanning/cheat-sheet.md)
   * [Useful Tools](lifecycle/vulnerability-scanning/tools.md)
 
-* [Web Application Testing](lifecycle/web-application/introduction.md)
-  * [Information Gathering](lifecycle/web-application/information-gathering.md)
-  * [Transport Security](lifecycle/web-application/transport.md)
-  * [Session Management](lifecycle/web-application/session.md)
-  * [Authentication](lifecycle/web-application/authentication.md)
-  * [Authorisation](lifecycle/web-application/authorisation.md)
-  * [Input Validation](lifecycle/web-application/input-validation.md)
-  * [Cheat Sheet](lifecycle/web-application/cheat-sheet.md)
-  * [Useful Tools](lifecycle/web-application/tools.md)
-
 * [Exploitation](lifecycle/exploitation/introduction.md)
+  * [Services - TCP](lifecycle/exploitation/tcp/introduction.md)
+  * [Services - UDP](lifecycle/exploitation/udp/introduction.md)
   * [Metasploit](lifecycle/exploitation/metasploit.md)
   * [Buffer Overflows](lifecycle/exploitation/buffer-overflows.md)
   * [Cheat Sheet](lifecycle/exploitation/cheat-sheet.md)
@@ -37,9 +29,27 @@
   * [Cheat Sheet](lifecycle/post-exploitation/cheat-sheet.md)
   * [Useful Tools](lifecycle/post-exploitation/tools.md)
 
-* [Social Engineering](lifecycle/social-engineering/introduction.md)
-
 * [Reporting](lifecycle/reporting/introduction.md)
+
+## Web Application Testing
+
+* [Introduction](web-application/introduction.md)
+
+* [Information Gathering](web-application/information-gathering.md)
+
+* [Transport Security](web-application/transport.md)
+
+* [Session Management](web-application/session.md)
+
+* [Authentication](web-application/authentication.md)
+
+* [Authorisation](web-application/authorisation.md)
+
+* [Input Validation](web-application/input-validation.md)
+
+* [Cheat Sheet](web-application/cheat-sheet.md)
+
+* [Useful Tools](web-application/tools.md)
 
 ## Wireless Penetration Testing
 
@@ -57,6 +67,10 @@
 * [Cheat Sheet](wireless-penetration-testing/cheat-sheet.md)
 
 * [Useful Tools](wireless-penetration-testing/tools.md)
+
+## Social Engineering
+
+* [Social Engineering](social-engineering/introduction.md)
 
 ## Appendices
 
